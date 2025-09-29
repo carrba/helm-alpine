@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  alpine:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-09-29T22:07:26.6069433+01:00"
+    description: A Helm chart for Kubernetes
+    digest: fecb755723c6988085f01471c19cd2ffdeccfad6b4217aab86e6df3088bc8d6a
+    name: alpine
+    type: application
+    urls:
+    - alpine-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-09-29T22:07:26.6003103+01:00"
